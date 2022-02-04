@@ -8,3 +8,4 @@ while (1 < 2):
     userChoice = raw_input("Pilih senjata kamu [B]atu], [K]ertas, or [G]unting: ")
     if not re.match("[SsRrPp]", userChoice):
         print "Silakan pilih satu huruf:"
+        print "[B]atu], [K]ertas, [G]unting."
