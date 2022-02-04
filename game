@@ -6,3 +6,4 @@ while (1 < 2):
      print "\n"
     print "Batu, Kertas, Gunting - Tembak!" 
     userChoice = raw_input("Pilih senjata kamu [B]atu], [K]ertas, or [G]unting: ")
+    if not re.match("[SsRrPp]", userChoice):
