@@ -17,3 +17,4 @@ while (1 < 2):
   print "I chose: " + opponenetChoice
   if opponenetChoice == str.upper(userChoice):
       print "Tie! "
+    #if opponenetChoice == str("R") and str.upper(userChoice) == "P"  
