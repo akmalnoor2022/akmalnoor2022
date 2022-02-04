@@ -15,3 +15,4 @@ while (1 < 2):
   choices = ['B', 'K', 'G']
   opponenetChoice = random.choice(choices)
   print "I chose: " + opponenetChoice
+  if opponenetChoice == str.upper(userChoice):
