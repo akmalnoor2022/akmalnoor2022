@@ -14,3 +14,4 @@ while (1 < 2):
   print "Kamu pilih: " + pilihanPengguna  
   choices = ['B', 'K', 'G']
   opponenetChoice = random.choice(choices)
+  print "I chose: " + opponenetChoice
