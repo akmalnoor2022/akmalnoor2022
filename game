@@ -13,3 +13,4 @@ while (1 < 2):
     // Gema pilihan pengguna
   print "Kamu pilih: " + pilihanPengguna  
   choices = ['B', 'K', 'G']
+  opponenetChoice = random.choice(choices)
