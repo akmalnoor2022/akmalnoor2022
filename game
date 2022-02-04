@@ -22,4 +22,5 @@ while (1 < 2):
        print "Gunting melawan batu, Aku menang! "  
        lanjut
     elif opponenetChoice == 'S' and userChoice.upper() == 'P':  
-    print "Gunting melawan kertas! Aku menang! "            
+    print "Gunting melawan kertas! Aku menang! "     
+        continue      
