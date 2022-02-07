@@ -48,4 +48,6 @@ while (1 < 2):
       // recursive implementation of binary search in Python 
      def binary_search_recursive(a_list, item):  
        """Melakukan pencarian biner rekursif dari bilangan bulat dalam daftar yang diberikan, diurutkan,. 
-      a_list -- daftar bilangan bulat yang diurutkan      
+      a_list -- daftar bilangan bulat yang diurutkan   
+     item -- bilangan bulat yang Anda cari untuk posisi
+     """    first = 0    
