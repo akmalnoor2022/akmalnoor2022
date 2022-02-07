@@ -42,4 +42,5 @@ while (1 < 2):
           elif a_list[i] > item:
             last = i - 1
           elif a_list[i] < item: 
-           first = i + 1       
+           first = i + 1 
+           else:      
