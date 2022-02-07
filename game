@@ -28,4 +28,5 @@ while (1 < 2):
        print "Kertas melawan batu, aku menang! " 
      lanjut        
         else: 
-         print "Kamu menang!"   
+         print "Kamu menang!"
+         // implementasi berulang dari pencarian biner dengan Python def binary_search (a_list, item):   
