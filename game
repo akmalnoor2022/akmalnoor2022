@@ -45,4 +45,5 @@ while (1 < 2):
            first = i + 1 
            else:   
       return ' tidak ditemukan di dalam list'.format(item=item)  
-      // recursive implementation of binary search in Python        
+      // recursive implementation of binary search in Python 
+     def binary_search_recursive(a_list, item):        
