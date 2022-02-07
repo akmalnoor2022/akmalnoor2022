@@ -36,4 +36,6 @@ while (1 < 2):
      """    first = 0
         last = len(a_list) - 1 
             while first <= last:
+                  i = (first + last) / 2
+        if a_list[i] == item:    
      
