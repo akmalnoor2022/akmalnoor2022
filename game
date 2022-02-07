@@ -29,4 +29,5 @@ while (1 < 2):
      lanjut        
         else: 
          print "Kamu menang!"
-         // implementasi berulang dari pencarian biner dengan Python def binary_search (a_list, item):   
+         // implementasi berulang dari pencarian biner dengan Python def binary_search (a_list, item):  
+        """ Melakukan pencarian biner berulang untuk menemukan posisi bilangan bulat dalam daftar yang diberikan, diurutkan.  
