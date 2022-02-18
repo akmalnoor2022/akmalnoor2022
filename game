@@ -23,7 +23,7 @@ while (1 < 2):
        lanjut
     elif opponenetChoice == 'S' and userChoice.upper() == 'P':  
     print "Gunting melawan kertas! Aku menang! "     
-        continue      
+      continue      
     elif opponenetChoice == 'P' and userChoice.upper() == 'R':  
        print "Kertas melawan batu, aku menang! " 
      lanjut        
@@ -43,7 +43,7 @@ while (1 < 2):
             last = i - 1
           elif a_list[i] < item: 
            first = i + 1 
-           else:   
+          else:   
       return ' tidak ditemukan di dalam list'.format(item=item)  
       // recursive implementation of binary search in Python 
      def binary_search_recursive(a_list, item):  
