@@ -3,7 +3,7 @@ import random
 import os
 os.system('cls' if os.name=='nt' else 'clear')
 while (1 < 2):
-     print "\n"
+  print "\n"
     print "Batu, Kertas, Gunting - Tembak!" 
     userChoice = raw_input("Pilih senjata kamu [B]atu], [K]ertas, or [G]unting: ")
     if not re.match("[SsRrPp]", userChoice):
