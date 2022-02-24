@@ -17,11 +17,11 @@ while (1 < 2):
   print "I chose: " + opponenetChoice
   if opponenetChoice == str.upper(userChoice):
       print "Tie! "
-    #if opponenetChoice == str("R") and str.upper(userChoice) == "P"  
-    elif opponenetChoice == 'R' and userChoice.upper() == 'S': 
+ #if opponenetChoice == str("R") and str.upper(userChoice) == "P"  
+     elif opponenetChoice == 'R' and userChoice.upper() == 'S': 
        print "Gunting melawan batu, Aku menang! "  
        lanjut
-    elif opponenetChoice == 'S' and userChoice.upper() == 'P':  
+     elif opponenetChoice == 'S' and userChoice.upper() == 'P':  
     print "Gunting melawan kertas! Aku menang! "     
       continue      
     elif opponenetChoice == 'P' and userChoice.upper() == 'R':  
