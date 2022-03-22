@@ -11,10 +11,10 @@ while (1 < 2):
           print "[B]atu], [K]ertas, [G]unting."
         continue
     // Gema pilihan pengguna
-  print "Kamu pilih: " + pilihanPenguna  
-  choices = ['B', 'K', 'G']
+  print "Kamu pilih: " + pilihanPengguna  
+  choices = ['B', 'K', 'G'] 
   opponenetChoice = random.choice(choices)
-  print "I chose: " + opponenetChoice
+  print "I chose: " + opponenetCchoice
   if opponenetChoice == str.upper(userChoice):
       print "Tie! "
  #if opponenetChoice == str("R") and str.upper(userChoice) == "P"  
