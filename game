@@ -10,7 +10,7 @@ while (1 < 2):
         print "Silakan pilih satu huruf:"
         print "[B]atu], [K]ertas, [G]unting."
         continue
-    // Gema pilihan pengguna
+    // Gema pilihan pengguna 
   print "Kamu pilih: " + pilihanPengguna  
   choices = ['B', 'K', 'G']
   opponenetChoice = random.choice(choices)
@@ -50,6 +50,6 @@ while (1 < 2):
        """Melakukan pencarian biner rekursif dari bilangan bulat dalam daftar yang diberikan, diurutkan,. 
       a_list -- daftar bilangan bulat yang diurutkan   
      item -- bilangan bulat yang Anda cari untuk posisi
-     """    first = 0    
+     """    first = 0     
      last = len(a_list) - 1
      
