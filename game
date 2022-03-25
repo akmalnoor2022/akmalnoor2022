@@ -14,7 +14,7 @@ while (1 < 2):
   print "Kamu pilih: " + pilihanPengguna  
   choices = ['B', 'K', 'G'] 
   opponenetChoice = random.choice(choices)
-  print "I chose: " + opponenetCchoice
+  print "I chose: " + opponenetChoice
   if opponenetChoice == str.upper(userChoice):
       print "Tie! "
  #if opponenetChoice == str("R") and str.upper(userChoice) == "P"  
