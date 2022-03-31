@@ -1,4 +1,4 @@
-repository pertama .
+#repository pertama.
 import random
 import os 
 os.system('cls' if os.name=='nt' else 'clear')
